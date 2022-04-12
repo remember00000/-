@@ -1,4 +1,5 @@
 # 实时平面匹配
+![image](https://github.com/remember00000/Real-time-plane-matching/blob/main/show.jpg)
 ## 环境配置
 使用vs2019、opencv2314
 vs配置opencv2314：属性中的VC++包含目录和库目录设置，链接器中的输入中的附加依赖项设置路径
